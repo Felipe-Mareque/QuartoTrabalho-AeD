@@ -54,3 +54,10 @@ Portanto, a complexidade total da solução é:
 * **Espaço:** **O(n)**.
 
 O espaço é utilizado principalmente para armazenar as quadruplas encontradas e o vetor auxiliar utilizado pelo Merge Sort.
+
+
+<img width="1365" height="718" alt="Captura de tela 2026-07-11 165349" src="https://github.com/user-attachments/assets/32accd3b-6756-4774-a153-fc8dc957bae4" />
+
+<img width="1366" height="728" alt="Captura de tela 2026-07-11 165427" src="https://github.com/user-attachments/assets/eebc7a11-3208-4fa8-9baf-1f893d282132" />
+
+
